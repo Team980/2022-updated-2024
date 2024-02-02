@@ -1,3 +1,8 @@
+https://github.com/wariokirby/Pixy2JavaFRC-2024
+download and copy the above directly into the robot project in its own folder (same level and subsystems and commands)
+
+BELOW IS NOW OUTDATED WITH BROKEN LINKS AND OUTDATED CODE!!!
+
 To install the API, it can either be downloaded and copied directly into the project, or you can use it with Gradle/Maven.
 
 The Maven repository is located at: https://nexus.otake.pw/repository/maven-public/ The group id is pw.otake.pseudoresonance 

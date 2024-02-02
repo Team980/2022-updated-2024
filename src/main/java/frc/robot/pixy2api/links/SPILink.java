@@ -66,7 +66,7 @@ public class SPILink implements Link {
 		spi = new SPI(port);
 		spi.setClockRate(PIXY_SPI_CLOCKRATE);
 		spi.setMode(Mode.kMode2);
-		spi.setMSBFirst();
+		//spi.setMSBFirst();//removed from wpilib
 		spi.setChipSelectActiveLow();
 		return 0;
 	}
